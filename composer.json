@@ -1,0 +1,19 @@
+{
+    "name": "scadaunity/schemabr",
+    "description": "Crie migrações para banco de dados de forma descomplicada",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Scadaunity\\Schemabr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "scadaunity",
+            "email": "scadaunity@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
